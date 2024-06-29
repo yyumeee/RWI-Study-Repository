@@ -1,0 +1,11 @@
+matplotlib
+gdal
+rasterio
+pyquadkey2
+geopandas
+h3
+netCDF4
+osmnx
+shapely
+scipy
+fsspec
